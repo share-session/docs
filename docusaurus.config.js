@@ -117,8 +117,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Support',
+                to: '/support',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/privacy',
               },
               {
                 label: 'GitHub',
