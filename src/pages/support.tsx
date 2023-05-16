@@ -32,11 +32,14 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+      description="Supporting you">
+      <div className="hero hero--primary">
+        <div className="container">
+          <h1 className="hero__title">Supporting you</h1>
+          <p className="hero__subtitle"> If you're having trouble using our services, feel free to get in touch at <a
+            style={{ background: "white", borderRadius: 5, padding: "1px 5px" }}>hello@share-session.com</a>!</p>
+        </div>
+      </div>
     </Layout>
   );
 }
