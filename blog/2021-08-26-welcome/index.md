@@ -1,25 +1,14 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [jackall3n]
+tags: [share-session]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to Share Session! 
 
-Simply add Markdown files (or folders) to the `blog` directory.
+If you're here it's either because you'd like to have some way to share your session across browsers, or you're just lost. 
 
-Regular blog authors can be added to `authors.yml`.
+Either way, you're welcome!
 
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+If you're unsure what this is or how to use it, head over to the [documentation](/docs) and get started.
