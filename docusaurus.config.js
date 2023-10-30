@@ -125,6 +125,10 @@ const config = {
                                 to: '/privacy',
                             },
                             {
+                                label: 'Test',
+                                to: '/test',
+                            },
+                            {
                                 label: 'GitHub',
                                 href: 'https://github.com/share-session/docs',
                             },
